@@ -1,0 +1,2 @@
+elevation,mask,vmask,demand,tdemand,rland,tland,tcoef,tfactor,cnt,tcnt,tdates,rain,temp,evap,vcoord,outputs,maxmin,aforo,obs
+r_DEM.tif,mask,r_mask_fill.tif,demandFONAG,t_demand.csv,EscenariosFinales\ECS_FONAG_BASE_SEM.tif,EscenariosFinales\t_landuse_BASE.csv,t_coef_hz_Calib_FONAG_FINAL.csv,t_factorh.csv,cnt,t_cnt_None.csv,t_dates_FONAG.csv,prcEPMAPSFONAG,tmpEPMAPSFONAG,etoEPMAPSFONAG,CaptacionesEPMAPS\Cap_EPMAPS.shp,outputs_BASE_SEM_CAP_EPMAPS_NSE030,t_rangos_FONAG_FINAL.csv,H149.shp,H149_obs.txt

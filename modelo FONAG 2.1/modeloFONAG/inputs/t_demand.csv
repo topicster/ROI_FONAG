@@ -1,0 +1,6 @@
+abstracciones,retornos,coef retorno,field
+v_AP_WD.shp,v_AP_RF.shp,0.45,Caudal_m3
+v_H_WD.shp,v_H_WD.shp,1,Caudal_m3
+v_I_WD.shp,v_I_WD.shp,0.7,Caudal_m3
+v_AV_WD.shp,v_AV_WD.shp,0.7,Caudal_m3
+v_R_WD.shp,r_R_RF.tif,0.65,Caudal_m3
