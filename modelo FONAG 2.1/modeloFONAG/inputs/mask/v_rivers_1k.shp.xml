@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200427</CreaDate><CreaTime>16441800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolyline" Date="20200427" Time="164418">RasterToPolyline r_rivers_1k C:\Users\bfo13\PycharmProjects\modeloFONAG\modeloFONAG\inputs\mask\v_rivers_1k.shp ZERO 0 NO_SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>
